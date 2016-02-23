@@ -17,3 +17,11 @@ ADS
 4. 비교대상의 캘린더(혹은 일정이 저장된 앱)으로부터 일정 데이터 불러옴
 5. 불러온 데이터와 자신의 데이터를 비교하여 시간비는 시간대를 보여줌(캘린더 및 약속잡을 수 있는 가까운 시간대 별로 나열)
 6. 비는 시간대를 선택하여 바로 일정잡기
+
+### Mockup sketch
+<img src = "https://github.com/gusrn0505/KUProtoypeCatalog2016Winter/blob/master/Hyeongu%20Kang/Mockup/MA(make%20appointment)%20app%20복사본/스크린샷/스크린샷%202016-01-26%20오전%2010.14.11.png?raw=true"[width = "150" height= "300"/>
+<img src = "https://github.com/gusrn0505/KUProtoypeCatalog2016Winter/blob/master/Hyeongu%20Kang/Mockup/MA(make%20appointment)%20app%20복사본/스크린샷/스크린샷%202016-01-26%20오전%2010.28.02.png?raw=true"[width = "150" height= "300"/>
+<img src = "https://github.com/gusrn0505/KUProtoypeCatalog2016Winter/blob/master/Hyeongu%20Kang/Mockup/MA(make%20appointment)%20app%20복사본/스크린샷/스크린샷%202016-01-26%20오전%2010.28.31.png?raw=true"[width = "150" height= "300"/>
+
+### Prototype Video
+<iframe width="500" height="300" src="https://www.youtube.com/embed/5ZqxcAK--3M" frameborder="0" allowfullscreen></iframe>
